@@ -49,6 +49,7 @@ The experiment demonstrates how averaging noisy observations can reveal hidden s
 ## How to Run
 
 1.Clone the repository
+
 git clone https://github.com/IvanOgnyanovGoranov/platonic-forms-mathematical-model
 
 2.Open jupyter notebook
