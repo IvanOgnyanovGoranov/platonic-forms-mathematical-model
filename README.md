@@ -4,7 +4,7 @@
 
 This project explores how an underlying structure (a prototype vector) can be recovered from many imperfect observations using simple mathematical tools and Python.
 
-The full explanation and implementation are available in the Jupyter notebook.
+It was created out of curiosity to see whether a philosophical idea — Plato’s Theory of Forms — could be expressed through a simple mathematical and computational model.
 
 ## Project Idea
 
